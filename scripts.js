@@ -31,4 +31,4 @@ let quote = 'The best way to predict the future is to create it.';
 for (let i = 0; i < 5; i++) {
     document.querySelector('#quote').textContent += quote;
 }
-};
+});
