@@ -30,7 +30,7 @@ The project is done by Lenny Muriithi
 
 
 ## Screenshot
-![alt text](image.png)
+![![alt text](image-2.png)](image-1.png)
 
 
 ## Getting Started
